@@ -14,3 +14,4 @@ python_version = "3.8"
 
 [scripts]
 format = "autopep8 -ivr ."
+typecheck = "mypy ./"
